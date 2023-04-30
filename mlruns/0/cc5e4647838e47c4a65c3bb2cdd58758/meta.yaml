@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aliaabouatie/Downloads/BreastCancer%20Kopie/mlruns/0/cc5e4647838e47c4a65c3bb2cdd58758/artifacts
+end_time: 1682881116745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc5e4647838e47c4a65c3bb2cdd58758
+run_name: sneaky-auk-105
+run_uuid: cc5e4647838e47c4a65c3bb2cdd58758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682881111482
+status: 3
+tags: []
+user_id: aliaabouatie

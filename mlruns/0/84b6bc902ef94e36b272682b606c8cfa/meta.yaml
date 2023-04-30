@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aliaabouatie/Downloads/BreastCancer%20Kopie/mlruns/0/84b6bc902ef94e36b272682b606c8cfa/artifacts
+end_time: 1682881121081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84b6bc902ef94e36b272682b606c8cfa
+run_name: learned-shrike-803
+run_uuid: 84b6bc902ef94e36b272682b606c8cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682881116749
+status: 3
+tags: []
+user_id: aliaabouatie

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aliaabouatie/Downloads/BreastCancer%20Kopie/mlruns/0/110d0661e85549e69cfd2c4ccab0f5fb/artifacts
+end_time: 1682881108244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 110d0661e85549e69cfd2c4ccab0f5fb
+run_name: redolent-dolphin-925
+run_uuid: 110d0661e85549e69cfd2c4ccab0f5fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682881105028
+status: 3
+tags: []
+user_id: aliaabouatie

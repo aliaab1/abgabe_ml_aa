@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aliaabouatie/Downloads/BreastCancer%20Kopie/mlruns/0/fdf8458b97054481a5bf1ede12902d42/artifacts
+end_time: 1682881111478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdf8458b97054481a5bf1ede12902d42
+run_name: suave-shrew-271
+run_uuid: fdf8458b97054481a5bf1ede12902d42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682881108248
+status: 3
+tags: []
+user_id: aliaabouatie
